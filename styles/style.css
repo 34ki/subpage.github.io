@@ -1,0 +1,396 @@
+
+
+.container div {
+
+    max-width: 1600px ;
+    text-align: center;
+    margin: 0 auto;
+}
+
+
+nav  {
+    text-align: center;
+    
+}
+#hero-msg h1{
+
+    text-align: center;
+}
+ 
+#hero-msg h4{
+    text-align: center;
+}
+
+.button-box{
+    text-align: center;
+}
+
+main section{
+    text-align: center;
+}
+
+a {
+    text-align: center;
+}
+
+div {
+    text-align: center;
+}
+
+#background {
+    height: 725px;
+}
+
+body {
+
+    background-color: cornsilk;
+    margin: 0;
+    padding: 0%;
+
+}
+
+
+nav a:hover{
+    background-color: black;
+}
+.book {
+
+    background-color:  fuchsia;
+}
+
+
+.join {
+
+    background-color: fuchsia;
+    padding: 15px 30px;
+}
+
+.book:hover{
+
+    background-color: azure;
+}
+
+.join:hover{
+
+    background-color: bisque;
+}
+
+#background{
+
+    background-color: aqua;
+}
+
+.msg{
+
+    background-color: navajowhite;
+    padding: 35px;
+    padding: 35px;
+    grid-column: 6/10;
+    grid-row: 6/7;
+    box-shadow: 5px 5px 10px #6f7364;
+}
+
+footer{
+
+    background-color: bisque;
+    padding: 25px 50px;
+}
+
+nav a{
+
+    background-color: whitesmoke;
+    padding: 35px;
+    padding-top: 10px;
+    text-align: center;
+}
+
+
+
+.book {
+
+    background-color: white;
+}
+
+.join{
+
+    background-color: wheat;
+}
+
+.book:hover {
+
+    background-color: black;
+}
+
+.join:hover {
+
+    background-color: aquamarine;
+}
+
+.msg h2 {
+
+    background-color: bisque;
+}
+
+.msg p {
+
+    background-color: bisque;
+}
+
+footer{
+
+    background-color: wheat;
+    margin-top: 200px;
+}
+
+ a {
+
+    background-color: wheat;
+ }
+
+footer{
+
+    background-color: blanchedalmond;
+}
+
+
+a:hover {
+
+    background-color: blanchedalmond;
+}
+
+.icon {
+    width: 80px;
+    padding-top: 10px;
+    margin: 200px 0 ;
+    
+    
+}
+
+.logo{
+
+    width: 3px;
+}
+
+.oars-icon {
+
+    width: 80px;
+    margin: 200px 0px;
+    
+}
+
+#hero-img {
+
+    width: 500%;
+}
+
+nav {
+
+    text-decoration: double;
+    text-align: center;
+    
+}
+
+a {
+
+    text-decoration: dotted;
+    text-align: center;
+    color: brown;
+}
+
+.book{
+
+    text-decoration: wavy;
+    text-align: center;
+    color: black;
+}
+
+.join {
+
+    text-decoration: wavy;
+    text-align: center;
+    color: black;
+}
+
+footer{
+
+    text-decoration: overline;
+    text-align: center;
+    color: black;
+}
+
+a{
+
+    text-decoration: wavy;
+    text-align: center;
+    color: black;
+}
+
+footer p {
+    font-size: 1em;
+}  
+
+footer p a:hover {
+    text-decoration: underline;
+}    
+
+.home-title{
+
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 2em;
+    margin-top: 10px;
+}
+
+.msg h2{
+
+    font-family: 'Times New Roman', Times, serif;
+    line-height: 1.5em;
+    margin: 0%;
+    padding: 0%;
+}
+
+.book{
+
+    font-size: 18px;
+    padding: 15px 30px;
+    margin-top: 50px;
+    border-radius: 5px;
+
+} 
+
+.join {
+    font-size: 18px;
+    margin-top: 50px; 
+    border-radius: 5px;
+    }    
+    
+.msg p {
+
+    font-size: 1.2em;
+    padding-bottom: 15px;
+}
+
+#logo_link{
+
+    padding-top: 5px;
+}
+
+footer.social img {
+
+    padding-top: 15px;
+}
+
+main section img{
+
+    box-sizing: border-box;
+}
+
+.card-img{
+
+    border: 10px solid wheat;
+}
+
+header {
+    display: grid;
+    grid-template-columns: 150px auto;
+    
+  }
+  
+  nav {
+    display: flex;
+    justify-content: space-around;
+    height: fit-content;
+  }
+  
+  
+  #logo_link {
+    padding-top: 5px;
+    justify-self: center;
+    align-self: center;
+  }
+
+  #hero {
+    display: grid;
+    grid-template-columns: 1fr 3fr 1fr;
+}
+
+#hero-box {
+    grid-column: 1/4;
+    grid-row: 1/3;
+    z-index: -1;
+}
+
+
+#hero-msg {
+    grid-column: 2/3;
+    grid-row: 1/2;
+    margin-top: 100px;
+}
+
+.mountains {
+    width: 100%;
+    grid-column: 2/7;
+    grid-row: 5/8;
+    box-shadow: 5px 5px 10px #6f7364;
+}
+           
+footer {
+    background-color: #6f7364;
+    padding: 25px 50px;
+    margin-top: 200px; 
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+/**/
+
+.text p {
+
+    text-align: center;
+    font-size: 200%;
+    font-weight: bold;
+}
+
+
+
+.rivers{
+
+    margin-top: 10%;
+    width: 30%;
+}
+
+
+.img{
+
+    width: 40%;
+    margin-right: 50%;
+    margin-bottom: 20%;
+}
+
+.blue-river{
+
+    width: 60%;
+    margin-left: 25%;
+}
+
+.ml p {
+
+    margin-left: 10%;
+    text-align: center;
+    font-size: 200%;
+    font-weight: bold;
+
+}
+
+
+#content-2 {
+
+    background-color: white;
+}
+
+
+.rivers h2 { 
+
+    margin-left: 18%;
+}
+
